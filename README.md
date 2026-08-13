@@ -1,6 +1,3 @@
-# Matrix Spec Fixture
+# TEMP-SEER-MATRIX-20260813-spec
 
-Version: v0 baseline.
-Controlled content for Letterbrace Seer spec_change validation.
-Timestamp: 2026-08-13T17:00:00-04:00
-
+Seer E2E matrix fixture. v1 baseline update at 2026-08-13T21:21 UTC. Disposable content, safe to delete.
